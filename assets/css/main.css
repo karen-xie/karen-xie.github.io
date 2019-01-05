@@ -1645,7 +1645,8 @@
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		/*background-color: #282828;*/
+		background-color: #1092f3; 
 		text-align: center;
 		position: fixed;
 		left: 0;
